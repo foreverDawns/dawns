@@ -36,9 +36,9 @@ body {
 /* tab栏 */
 .bat-logo{
     position: fixed; 
-    height: 50px;
+    height: 4.2rem;
     line-height: 30px;
-    padding: 10px 0px;
+    padding: 1rem 0px;
     width: 25%;
     overflow: hidden;
     background: #fff;
@@ -49,10 +49,10 @@ body {
 }
 .bat-logo div {
     border-right: 2px solid #ccc;
-    padding: 0 2px;
+    padding: 0 0.5rem;
 }
 .bat-logo div svg{
-    padding-top: 7px;
+    padding-top: 0.9rem;
 }
  .logo-mark-color {
     fill: #00a63f;
@@ -60,7 +60,7 @@ body {
 }
 .wrapper04 {
     position: fixed; 
-    height: 50px;
+    height: 4.2rem;
     width: 75%;
     overflow: hidden;
     background: #fff;
@@ -75,8 +75,8 @@ body {
 }
 
 .wrapper04 .scroller li {
-    height: 50px;
-    line-height: 50px;
+    height: 4.2rem;
+    line-height: 4.2rem;
     color: #333;
     float: left;
     text-align: center;
