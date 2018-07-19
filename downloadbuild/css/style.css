@@ -138,11 +138,6 @@ h2 {
     -moz-user-focus: none;
     -moz-user-select: none;
 }
-
-.cd-item>a.dark-text b {
-    border-color: #363558
-}
-
 .cd-item div {
     /* display: table-cell;
     vertical-align: middle */
